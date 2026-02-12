@@ -1,0 +1,4129 @@
+[
+    {
+        "text": " situasi arus lalu lintas di ruas tol jakarta-tangerang km 00 tomang arah meruya maupun arah latumenten terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol jakarta-tangerang km 00 tomang",
+            "TO": "meruya",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "10:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jakarta-tangerang km 00 tomang arah meruya maupun arah latumenten terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol jakarta-tangerang km 00 tomang",
+            "TO": "latumenten",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "10:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light utan kayu rawamangun jaktim arah pulogadung maupun arah pramuka raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light utan kayu rawamangun jaktim",
+            "TO": "pulogadung",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "09:46"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light utan kayu rawamangun jaktim arah pulogadung maupun arah pramuka raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light utan kayu rawamangun jaktim",
+            "TO": "pramuka",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "09:46"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kodim lama jatinegara jaktim arah kampung melayu maupun arah buaran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kodim lama jatinegara jaktim",
+            "TO": "kampung",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "09:42"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kodim lama jatinegara jaktim arah kampung melayu maupun arah buaran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kodim lama jatinegara jaktim",
+            "TO": "buaran",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "09:42"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah kalideres maupun arah pesing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kalideres",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "09:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah kalideres maupun arah pesing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "pesing",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "09:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran terpantau cukup padat sedangkan arah cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "cikampek",
+            "STATUS": "lancar",
+            "DATE": "30-06-2025",
+            "TIME": "08:30"
+        }
+    },
+    {
+        "text": " polri sat lantas jakbar melakukan pengaturan arus lalu lintas terkini di traffic light tomang jakarta barat situasi arus lalu lintas terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tomang jakarta barat situasi arus lalu lintas",
+            "STATUS": "ramai lancar",
+            "DATE": "30-06-2025",
+            "TIME": "07:39"
+        }
+    },
+    {
+        "text": " polri sat pjr pmj melakukan pengaturan arus lalu lintas di ruas tol dalam kota tepatnya cawang arah semanggi situasi arus lalu lintas terpantau ramai cenderung padat imbas volume kendaraan ",
+        "entities": {
+            "FROM": "ruas tol dalam kota tepatnya cawang",
+            "TO": "semanggi",
+            "STATUS": "ramai cenderung",
+            "DATE": "30-06-2025",
+            "TIME": "07:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di traffic light asemka jakarta barat terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light asemka jakarta barat",
+            "STATUS": "lancar",
+            "DATE": "30-06-2025",
+            "TIME": "07:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light slipi jakarta barat arah semanggi dan sebaliknya arah tomang terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light slipi jakarta barat",
+            "TO": "semanggi",
+            "STATUS": "lancar",
+            "DATE": "30-06-2025",
+            "TIME": "07:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light slipi jakarta barat arah semanggi dan sebaliknya arah tomang terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light slipi jakarta barat",
+            "TO": "tomang",
+            "STATUS": "lancar",
+            "DATE": "30-06-2025",
+            "TIME": "07:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light rindam jakarta timur arah tjbarat terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light rindam jakarta timur",
+            "TO": "tjbarat",
+            "STATUS": "lancar",
+            "DATE": "30-06-2025",
+            "TIME": "07:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light tugu tani jakarta pusat arah gambir terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani jakarta pusat",
+            "TO": "gambir",
+            "STATUS": "lancar",
+            "DATE": "30-06-2025",
+            "TIME": "07:23"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di kawasan bundaran hotel indonesia arah sarinah dan sebaliknya arah dukuh atas terpantau lancar ",
+        "entities": {
+            "FROM": "kawasan bundaran hotel indonesia",
+            "TO": "sarinah",
+            "STATUS": "lancar",
+            "DATE": "30-06-2025",
+            "TIME": "07:22"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di kawasan bundaran hotel indonesia arah sarinah dan sebaliknya arah dukuh atas terpantau lancar ",
+        "entities": {
+            "FROM": "kawasan bundaran hotel indonesia",
+            "TO": "dukuh",
+            "STATUS": "lancar",
+            "DATE": "30-06-2025",
+            "TIME": "07:22"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol jorr off ramp cijantung terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol jorr off ramp cijantung",
+            "STATUS": "lancar",
+            "DATE": "29-06-2025",
+            "TIME": "19:21"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light santa jakarta selantan menuju arah mampang prapatan/ jalan wijaya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light santa jakarta selantan menuju",
+            "TO": "mampang",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "17:38"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light senayan city jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light senayan city jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "17:23"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di kawasan pintu 1 prj kemayoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "kawasan pintu 1 prj kemayoran",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "17:21"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol cikunir 1 menuju arah cikampek/jati asih terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol cikunir 1 menuju",
+            "TO": "cikampek/jati",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "17:18"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di gerbang tol cilandak utama menuju arah andara/antasari terpantau lancar ",
+        "entities": {
+            "FROM": "gerbang tol cilandak utama menuju",
+            "TO": "andara/antasari",
+            "STATUS": "lancar",
+            "DATE": "29-06-2025",
+            "TIME": "17:14"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di kawasan bundaran hi jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "kawasan bundaran hi jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "17:08"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota maupun jalur arteri jalan gatot subroto depan dpr/mpr menuju arah slipi maupun semanggi terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota",
+            "STATUS": "lancar",
+            "DATE": "29-06-2025",
+            "TIME": "17:06"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota maupun jalur arteri jalan gatot subroto depan dpr/mpr menuju arah slipi maupun semanggi terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota",
+            "STATUS": "lancar",
+            "DATE": "29-06-2025",
+            "TIME": "17:06",
+            "TO": "slipi"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light cawang interchange jakarta timur terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light cawang interchange jakarta timur",
+            "STATUS": "lancar",
+            "DATE": "29-06-2025",
+            "TIME": "16:15"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light dukuh bawah jakarta selatan menuju arah manggarai/karet terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light dukuh bawah jakarta selatan menuju",
+            "TO": "manggarai/karet",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "14:10"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota pancoran menuju arah cawang/semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota pancoran menuju",
+            "TO": "cawang/semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "14:08"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan gatot subroto dari arah semanggi menuju arah slipi/jalan gerbang pemuda senayan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas jalan gatot subroto dari",
+            "TO": "slipi/jalan",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "12:52"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota semanggi menuju arah cawang/tomang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota semanggi menuju",
+            "TO": "cawang/tomang",
+            "STATUS": "ramai lancar",
+            "DATE": "29-06-2025",
+            "TIME": "12:50"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di off ramp tegal parang arah kuningan dan untuk ruas tol dalam kota yang akan mengarah semanggi terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp tegal parang",
+            "TO": "semanggi",
+            "STATUS": "lancar",
+            "DATE": "28-06-2025",
+            "TIME": "17:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di off ramp tegal parang arah kuningan dan untuk ruas tol dalam kota yang akan mengarah semanggi terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp tegal parang",
+            "TO": "ruas",
+            "STATUS": "lancar",
+            "DATE": "28-06-2025",
+            "TIME": "17:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pasar inpres cipete arah apartemen paradise/fatmawati terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light pasar inpres cipete",
+            "TO": "apartemen",
+            "STATUS": "ramai cenderung",
+            "DATE": "28-06-2025",
+            "TIME": "17:16"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol jaka sampurna yang akan mengarah ruas tol becakayu terpantau lancar namun untuk arteri yang akan mengarah jatibening terpantau ramai cenderung padat imbas volume kendaraan ",
+        "entities": {
+            "FROM": "gerbang tol jaka sampurna yang akan",
+            "TO": "jatibening",
+            "STATUS": "ramai cenderung",
+            "DATE": "28-06-2025",
+            "TIME": "17:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light santa arah mampang prapatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light santa",
+            "TO": "mampang",
+            "STATUS": "ramai lancar",
+            "DATE": "28-06-2025",
+            "TIME": "15:43"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan benyamin sueb kemayoran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "ruas jalan benyamin sueb kemayoran",
+            "STATUS": "ramai cenderung",
+            "DATE": "27-06-2025",
+            "TIME": "21:48"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di kawasan pintu 1 prj kemayoran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "kawasan pintu 1 prj kemayoran",
+            "STATUS": "ramai cenderung",
+            "DATE": "27-06-2025",
+            "TIME": "21:34"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan benyamin sueb kemayoran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "ruas jalan benyamin sueb kemayoran",
+            "STATUS": "ramai cenderung",
+            "DATE": "27-06-2025",
+            "TIME": "21:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 06 semanggi arah senayan terpantau padat sedangkan arah kuningan terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 06 semanggi",
+            "TO": "kuningan",
+            "STATUS": "lancar",
+            "DATE": "27-06-2025",
+            "TIME": "15:22"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jl medan merdeka barat jakpus arah jl mh thamrin maupun arah jl medan merdeka selatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jl medan merdeka barat jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "27-06-2025",
+            "TIME": "13:20"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jl medan merdeka barat jakpus arah jl mh thamrin maupun arah jl medan merdeka selatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jl medan merdeka barat jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "27-06-2025",
+            "TIME": "13:20"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota interchange cawang arah grogol terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota interchange cawang",
+            "TO": "grogol",
+            "STATUS": "ramai lancar",
+            "DATE": "27-06-2025",
+            "TIME": "11:27"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta barat melakukan pengamanan kamseltibcar lantas serta pengecekan pengerjaan perbaikan jalan di kawasan depan ruko 1000 jl taman palem lestari cengkareng jakbar situasi arus lalu lintas terpantau ramai lancar ",
+        "entities": {
+            "FROM": "kawasan depan ruko 1000 jl taman palem lestari cengkareng jakbar situasi arus lalu lintas",
+            "STATUS": "ramai lancar",
+            "DATE": "27-06-2025",
+            "TIME": "11:06"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 03 tebet arah cawang terpantau cukup padat sedangkan arah kuningan terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 03 tebet",
+            "TO": "kuningan",
+            "STATUS": "lancar",
+            "DATE": "27-06-2025",
+            "TIME": "10:05"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jakarta-cikampek km 09 cikunir terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol jakarta-cikampek km 09 cikunir",
+            "STATUS": "lancar",
+            "DATE": "27-06-2025",
+            "TIME": "09:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cempaka putih jakpus arah jl letjen suprapto maupun arah pulogadung terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "27-06-2025",
+            "TIME": "08:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cempaka putih jakpus arah jl letjen suprapto maupun arah pulogadung terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih jakpus",
+            "TO": "pulogadung",
+            "STATUS": "ramai lancar",
+            "DATE": "27-06-2025",
+            "TIME": "08:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di jl raya bogor tepatnya depan pasar induk polri sat lantas jaktim melakukan pengaturan &amp; pengamanan proyek pengaspalan jalan di depan pasar induk arah pasar rebo jakarta timur diimbau bagi masyarakat pengguna jalan agar hati-hati bila ",
+        "entities": {
+            "FROM": "jl raya bogor tepatnya depan pasar induk polri sat lantas jaktim melakukan pengaturan &amp; pengamanan proyek pengaspalan jalan di depan pasar induk",
+            "TO": "pasar",
+            "DATE": "27-06-2025",
+            "TIME": "07:35"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light rindam arah tjbarat terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light rindam",
+            "TO": "tjbarat",
+            "STATUS": "lancar",
+            "DATE": "27-06-2025",
+            "TIME": "07:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di interchange jagorawi arah cijantung dan yang akan mengarah jagorawi/cawang terpantau lancar ",
+        "entities": {
+            "FROM": "interchange jagorawi",
+            "TO": "cijantung",
+            "STATUS": "lancar",
+            "DATE": "27-06-2025",
+            "TIME": "07:13"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di interchange jagorawi arah cijantung dan yang akan mengarah jagorawi/cawang terpantau lancar ",
+        "entities": {
+            "FROM": "interchange jagorawi",
+            "TO": "jagorawi/cawang",
+            "STATUS": "lancar",
+            "DATE": "27-06-2025",
+            "TIME": "07:13"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di kawasan bundaran hotel indonesia arah dukuh atas dan sebaliknya arah thamrin terpantau lancar ",
+        "entities": {
+            "FROM": "kawasan bundaran hotel indonesia",
+            "TO": "dukuh",
+            "STATUS": "lancar",
+            "DATE": "27-06-2025",
+            "TIME": "07:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di kawasan bundaran hotel indonesia arah dukuh atas dan sebaliknya arah thamrin terpantau lancar ",
+        "entities": {
+            "FROM": "kawasan bundaran hotel indonesia",
+            "TO": "thamrin",
+            "STATUS": "lancar",
+            "DATE": "27-06-2025",
+            "TIME": "07:07"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light cengkareng jakarta barat menuju arah kalideres maupun arah pesing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakarta barat menuju",
+            "TO": "kalideres",
+            "STATUS": "ramai lancar",
+            "DATE": "26-06-2025",
+            "TIME": "19:20"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light cengkareng jakarta barat menuju arah kalideres maupun arah pesing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakarta barat menuju",
+            "TO": "pesing",
+            "STATUS": "ramai lancar",
+            "DATE": "26-06-2025",
+            "TIME": "19:20"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan gatot subroto layang kuningan menuju arah pancoran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "ruas jalan gatot subroto layang kuningan menuju",
+            "TO": "pancoran",
+            "STATUS": "ramai cenderung",
+            "DATE": "26-06-2025",
+            "TIME": "17:21"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan gatot subroto depan plaza mandiri menuju arah semanggi terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "ruas jalan gatot subroto depan plaza mandiri menuju",
+            "TO": "semanggi",
+            "STATUS": "ramai cenderung",
+            "DATE": "26-06-2025",
+            "TIME": "17:19"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light santa jakarta selatan menuju arah mampang terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light santa jakarta selatan menuju",
+            "TO": "mampang",
+            "STATUS": "ramai cenderung",
+            "DATE": "26-06-2025",
+            "TIME": "17:05"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan dr satrio jakarta selatan menuju arah casablanca maupun arah tanah abang terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "ruas jalan dr satrio jakarta selatan menuju",
+            "TO": "casablanca",
+            "STATUS": "ramai cenderung",
+            "DATE": "26-06-2025",
+            "TIME": "16:22"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan dr satrio jakarta selatan menuju arah casablanca maupun arah tanah abang terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "ruas jalan dr satrio jakarta selatan menuju",
+            "TO": "tanah",
+            "STATUS": "ramai cenderung",
+            "DATE": "26-06-2025",
+            "TIME": "16:22"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light sarinah jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light sarinah jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "26-06-2025",
+            "TIME": "15:42"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan gatot subroto semanggi menuju arah kuningan terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "ruas jalan gatot subroto semanggi menuju",
+            "TO": "kuningan",
+            "STATUS": "ramai cenderung",
+            "DATE": "26-06-2025",
+            "TIME": "15:24"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di kawasan bundaran hi jakarta pusat menuju arah semanggi terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "kawasan bundaran hi jakarta pusat menuju",
+            "TO": "semanggi",
+            "STATUS": "ramai cenderung",
+            "DATE": "26-06-2025",
+            "TIME": "15:21"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 10 slipi arah tomang terpantau cukup padat sedangkan arah benhil terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 10 slipi",
+            "TO": "benhil",
+            "STATUS": "lancar",
+            "DATE": "25-06-2025",
+            "TIME": "23:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah kalideres maupun pesing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kalideres",
+            "STATUS": "ramai lancar",
+            "DATE": "25-06-2025",
+            "TIME": "21:34"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 02 cawang arah cikampek terpantau cukup padat sedangkan arah tebet terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 02 cawang",
+            "TO": "tebet",
+            "STATUS": "lancar",
+            "DATE": "25-06-2025",
+            "TIME": "20:43"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran terpantau cukup padat sedangkan arah semanggi terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "semanggi",
+            "STATUS": "lancar",
+            "DATE": "25-06-2025",
+            "TIME": "20:23"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol pluit 1 terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol pluit 1",
+            "STATUS": "ramai lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:33"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light perintis kemerdekaan jakarta utara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light perintis kemerdekaan jakarta utara",
+            "STATUS": "ramai lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:13"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakarta barat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakarta barat",
+            "STATUS": "ramai lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di simpang bsd arah serpong maupun yang akan mengarah ciledug terpantau lancar ",
+        "entities": {
+            "FROM": "simpang bsd",
+            "TO": "serpong",
+            "STATUS": "lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:09"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di simpang bsd arah serpong maupun yang akan mengarah ciledug terpantau lancar ",
+        "entities": {
+            "FROM": "simpang bsd",
+            "TO": "ciledug",
+            "STATUS": "lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:09"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cempaka putih terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih",
+            "STATUS": "lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di interchange jagorawi yang akan mengarah cawang dan yang akan mengarah jatiasih terpantau lancar ",
+        "entities": {
+            "FROM": "interchange jagorawi yang akan",
+            "TO": "cawang",
+            "STATUS": "lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:05"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di interchange jagorawi yang akan mengarah cawang dan yang akan mengarah jatiasih terpantau lancar ",
+        "entities": {
+            "FROM": "interchange jagorawi yang akan",
+            "TO": "jatiasih",
+            "STATUS": "lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:05"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di off ramp cipete lancar dan yang akan mengarah mampang prapatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "off ramp cipete lancar",
+            "STATUS": "ramai lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:04"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di off ramp cipete lancar dan yang akan mengarah mampang prapatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "off ramp cipete lancar",
+            "STATUS": "ramai lancar",
+            "DATE": "25-06-2025",
+            "TIME": "17:04",
+            "TO": "mampang"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light emporium pluit jakut arah muara angke maupun arah jembatan tiga terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light emporium pluit jakut",
+            "TO": "muara",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "19:43"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light emporium pluit jakut arah muara angke maupun arah jembatan tiga terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light emporium pluit jakut",
+            "TO": "jembatan",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "19:43"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl gelora jakpus arah semanggi maupun arah bendungan hilir terpantau cukup padat ",
+        "entities": {
+            "FROM": "jl gelora jakpus",
+            "TO": "semanggi",
+            "STATUS": "cukup padat",
+            "DATE": "24-06-2025",
+            "TIME": "19:23"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl gelora jakpus arah semanggi maupun arah bendungan hilir terpantau cukup padat ",
+        "entities": {
+            "FROM": "jl gelora jakpus",
+            "TO": "bendungan",
+            "STATUS": "cukup padat",
+            "DATE": "24-06-2025",
+            "TIME": "19:23"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pasar rebo jaktim arah cijantung maupun arah jl tb simatupang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pasar rebo jaktim",
+            "TO": "cijantung",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "18:54"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pasar rebo jaktim arah cijantung maupun arah jl tb simatupang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pasar rebo jaktim",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "18:54"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran terpantau cukup padat sedangkan arah slipi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "slipi",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "17:55"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah kapuk maupun arah kalideres terpantau cukup padat ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kapuk",
+            "STATUS": "cukup padat",
+            "DATE": "24-06-2025",
+            "TIME": "17:40"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah kapuk maupun arah kalideres terpantau cukup padat ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kalideres",
+            "STATUS": "cukup padat",
+            "DATE": "24-06-2025",
+            "TIME": "17:40"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "bekasi",
+            "STATUS": "ramai cenderung",
+            "DATE": "24-06-2025",
+            "TIME": "17:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "cilincing",
+            "STATUS": "ramai cenderung",
+            "DATE": "24-06-2025",
+            "TIME": "17:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jalur arteri jl gatot subroto jaksel arah slipi maupun arah senayan terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "jalur arteri jl gatot subroto jaksel",
+            "TO": "slipi",
+            "STATUS": "ramai cenderung",
+            "DATE": "24-06-2025",
+            "TIME": "17:10"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jalur arteri jl gatot subroto jaksel arah slipi maupun arah senayan terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "jalur arteri jl gatot subroto jaksel",
+            "TO": "senayan",
+            "STATUS": "ramai cenderung",
+            "DATE": "24-06-2025",
+            "TIME": "17:10"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light santa jl tendean jaksel arah mampang prapatan maupun arah pancoran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light santa jl tendean jaksel",
+            "TO": "mampang",
+            "STATUS": "ramai cenderung",
+            "DATE": "24-06-2025",
+            "TIME": "17:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light santa jl tendean jaksel arah mampang prapatan maupun arah pancoran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light santa jl tendean jaksel",
+            "TO": "pancoran",
+            "STATUS": "ramai cenderung",
+            "DATE": "24-06-2025",
+            "TIME": "17:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light robinson pasar minggu jaksel arah lenteng agung maupun arah kalibata terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light robinson pasar minggu jaksel",
+            "TO": "lenteng",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "16:49"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light robinson pasar minggu jaksel arah lenteng agung maupun arah kalibata terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light robinson pasar minggu jaksel",
+            "TO": "kalibata",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "16:49"
+        }
+    },
+    {
+        "text": "@radioelshinta @dedyrosy halo sobat polri terima kasih atas informasinya terkait truk tersebut sudah ditangani oleh satlantas polres tangerang kota saat ini situasi arus lalu lintas sudah kembali normal apabila ada informasi lain silakan hubungi nomor 110",
+        "entities": {
+            "DATE": "24-06-2025",
+            "TIME": "15:51"
+        }
+    },
+    {
+        "text": " saat ini masih sedang berlangsung kegiatan penyampaian pendapat di depan gedung dpr ri jl gatot subroto jakpus situasi arus lalu lintas menuju arah slipi maupun arah palmerah terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "depan gedung dpr ri jl gatot subroto jakpus situasi arus lalu lintas menuju",
+            "TO": "slipi",
+            "STATUS": "ramai cenderung",
+            "DATE": "24-06-2025",
+            "TIME": "13:22"
+        }
+    },
+    {
+        "text": " saat ini masih sedang berlangsung kegiatan penyampaian pendapat di depan gedung dpr ri jl gatot subroto jakpus situasi arus lalu lintas menuju arah slipi maupun arah palmerah terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "depan gedung dpr ri jl gatot subroto jakpus situasi arus lalu lintas menuju",
+            "TO": "palmerah",
+            "STATUS": "ramai cenderung",
+            "DATE": "24-06-2025",
+            "TIME": "13:22"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di jl indramayu menteng jakpus arah jl h agus salim maupun arah jl imam bonjol terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl indramayu menteng jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "12:02"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di jl indramayu menteng jakpus arah jl h agus salim maupun arah jl imam bonjol terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl indramayu menteng jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "12:02"
+        }
+    },
+    {
+        "text": " saat ini sedang berlangsung kegiatan penyampaian pendapat di depan gedung dpr ri jl gatot subroto jakpus untuk situasi arus lalu lintas yang menuju arah slipi maupun arah palmerah terpantau masih ramai lancar ",
+        "entities": {
+            "FROM": "depan gedung dpr ri jl gatot subroto jakpus",
+            "TO": "slipi",
+            "STATUS": "masih ramai",
+            "DATE": "24-06-2025",
+            "TIME": "10:49"
+        }
+    },
+    {
+        "text": " saat ini sedang berlangsung kegiatan penyampaian pendapat di depan gedung dpr ri jl gatot subroto jakpus untuk situasi arus lalu lintas yang menuju arah slipi maupun arah palmerah terpantau masih ramai lancar ",
+        "entities": {
+            "FROM": "depan gedung dpr ri jl gatot subroto jakpus",
+            "TO": "palmerah",
+            "STATUS": "masih ramai",
+            "DATE": "24-06-2025",
+            "TIME": "10:49"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jl medan merdeka barat jakpus arah harmoni maupun arah jl budi kemuliaan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jl medan merdeka barat jakpus",
+            "TO": "harmoni",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "09:59"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jl medan merdeka barat jakpus arah harmoni maupun arah jl budi kemuliaan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jl medan merdeka barat jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "09:59"
+        }
+    },
+    {
+        "text": " terdapat pengerjaan pengecoran jalan di depan mapolsek cengkareng jl kamal raya jakbar untuk situasi arus lalu lintas dari arah jl kayu besar menuju arah jl raya daan mogot terpantau cukup padat ",
+        "entities": {
+            "FROM": "depan mapolsek cengkareng jl kamal raya jakbar",
+            "TO": "jl",
+            "STATUS": "cukup padat",
+            "DATE": "24-06-2025",
+            "TIME": "09:53"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran terpantau cukup padat sedangkan arah cikampek maupun jagorawi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "cikampek",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "09:43"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta barat bersama dishub melakukan pengamanan kamseltibcar lantas serta pengecekan pengerjaan perbaikan jalan di kawasan depan ruko 1000 jl taman palem lestari cengkareng jakbar situasi arus lalu lintas terpantau cukup padat ",
+        "entities": {
+            "FROM": "kawasan depan ruko 1000 jl taman palem lestari cengkareng jakbar situasi arus lalu lintas",
+            "STATUS": "cukup padat",
+            "DATE": "24-06-2025",
+            "TIME": "09:25"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light halim lama jl di panjaitan jaktim arah jl mayjen sutoyo maupun arah cipinang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light halim lama jl di panjaitan jaktim",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "08:06"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light halim lama jl di panjaitan jaktim arah jl mayjen sutoyo maupun arah cipinang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light halim lama jl di panjaitan jaktim",
+            "TO": "cipinang",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "08:06"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light rindam arah tjbarat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light rindam",
+            "TO": "tjbarat",
+            "STATUS": "ramai lancar",
+            "DATE": "24-06-2025",
+            "TIME": "07:34"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light garuda arah traffic light hek terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light garuda",
+            "TO": "traffic",
+            "STATUS": "lancar",
+            "DATE": "24-06-2025",
+            "TIME": "07:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light tomang terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light tomang",
+            "STATUS": "lancar",
+            "DATE": "24-06-2025",
+            "TIME": "07:31"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota kuningan arah semanggi maupun arah cawang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota kuningan",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "10:44"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota kuningan arah semanggi maupun arah cawang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota kuningan",
+            "TO": "cawang",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "10:44"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota km 13 tomang arah grogol maupun arah cawang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 13 tomang",
+            "TO": "grogol",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "10:23"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota km 13 tomang arah grogol maupun arah cawang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 13 tomang",
+            "TO": "cawang",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "10:23"
+        }
+    },
+    {
+        "text": " kendaraan truk trailer alami gangguan mesin di exit tol cibubur arah cileungsi situasi arus lalu lintas menjelang lokasi terpantau padat ",
+        "entities": {
+            "FROM": "exit tol cibubur",
+            "TO": "cileungsi",
+            "STATUS": "padat",
+            "DATE": "23-06-2025",
+            "TIME": "09:42"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran maupun arah cikampek terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "07:55"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran maupun arah cikampek terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "cikampek",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "07:55"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "bekasi",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "07:25"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "cilincing",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "07:25"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light csw melawai jaksel arah bulungan maupun arah jl panglima polim terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light csw melawai jaksel",
+            "TO": "bulungan",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "06:55"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light csw melawai jaksel arah bulungan maupun arah jl panglima polim terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light csw melawai jaksel",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "06:55"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "pesing",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "06:41"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kalideres",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "06:41"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pintu besi jl gunung sahari jakpus arah ancol maupun arah kemayoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pintu besi jl gunung sahari jakpus",
+            "TO": "ancol",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "06:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pintu besi jl gunung sahari jakpus arah ancol maupun arah kemayoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pintu besi jl gunung sahari jakpus",
+            "TO": "kemayoran",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "06:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pancoran jaksel arah tebet maupun arah kuningan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pancoran jaksel",
+            "TO": "tebet",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "06:22"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pancoran jaksel arah tebet maupun arah kuningan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pancoran jaksel",
+            "TO": "kuningan",
+            "STATUS": "ramai lancar",
+            "DATE": "23-06-2025",
+            "TIME": "06:22"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light jambul jl dewi sartika jaktim arah kalibata maupun arah cililitan terpantau cukup padat ",
+        "entities": {
+            "FROM": "traffic light jambul jl dewi sartika jaktim",
+            "TO": "kalibata",
+            "STATUS": "cukup padat",
+            "DATE": "23-06-2025",
+            "TIME": "06:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light jambul jl dewi sartika jaktim arah kalibata maupun arah cililitan terpantau cukup padat ",
+        "entities": {
+            "FROM": "traffic light jambul jl dewi sartika jaktim",
+            "TO": "cililitan",
+            "STATUS": "cukup padat",
+            "DATE": "23-06-2025",
+            "TIME": "06:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "22-06-2025",
+            "TIME": "21:05"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "22-06-2025",
+            "TIME": "21:05"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light bundaran senayan jaksel arah semanggi maupun arah pakubuwono terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light bundaran senayan jaksel",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "22-06-2025",
+            "TIME": "20:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light bundaran senayan jaksel arah semanggi maupun arah pakubuwono terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light bundaran senayan jaksel",
+            "TO": "pakubuwono",
+            "STATUS": "ramai lancar",
+            "DATE": "22-06-2025",
+            "TIME": "20:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di traffic light tugu tani arah gambir jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani",
+            "TO": "gambir",
+            "STATUS": "ramai lancar",
+            "DATE": "22-06-2025",
+            "TIME": "19:26"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light oteva depan istana negara arah harmoni maupun yang akan mengarah bundaran patung kuda terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light oteva depan istana negara",
+            "TO": "harmoni",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "18:27"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light oteva depan istana negara arah harmoni maupun yang akan mengarah bundaran patung kuda terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light oteva depan istana negara",
+            "TO": "bundaran",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "18:27"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di off ramp cipete dan yang akan mengarah mampang prapatan terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp cipete",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "17:40"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di off ramp cipete dan yang akan mengarah mampang prapatan terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp cipete",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "17:40",
+            "TO": "mampang"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di off ramp cempaka putih terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp cempaka putih",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "17:38"
+        }
+    },
+    {
+        "text": " polri sat pjr pmj melakukan pengaturan arus lalu lintas di off ramp jatinegara situasi arus lalu lintas terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp jatinegara situasi arus lalu lintas",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "17:34"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di interchange cawang arah jagorawi maupun yang akan mengarah ruas tol jakarta-cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "interchange cawang",
+            "TO": "jagorawi",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "17:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di interchange cawang arah jagorawi maupun yang akan mengarah ruas tol jakarta-cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "interchange cawang",
+            "TO": "ruas",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "17:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light bundaran senayan arah semanggi terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light bundaran senayan",
+            "TO": "semanggi",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "15:52"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di kawasan bundaran hotel indonesia arah sarinah terpantau lancar ",
+        "entities": {
+            "FROM": "kawasan bundaran hotel indonesia",
+            "TO": "sarinah",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "15:51"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pancoran arah kuningan/mampang prapatan terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light pancoran",
+            "TO": "kuningan/mampang",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "15:47"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl gatot subroto tepatnya depan pospol semanggi arah slipi terpantau lancar ",
+        "entities": {
+            "FROM": "jl gatot subroto tepatnya depan pospol semanggi",
+            "TO": "slipi",
+            "STATUS": "lancar",
+            "DATE": "22-06-2025",
+            "TIME": "15:45"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di kawasan pintu 10 senayan jalan gerbang pemuda jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "kawasan pintu 10 senayan jalan gerbang pemuda jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "21:28"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di kawasan pintu 1 prj kemayoran jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "kawasan pintu 1 prj kemayoran jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "21:26"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light kwitang jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kwitang jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "21:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 04 tebet arah kuningan maupun arah cawang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 04 tebet",
+            "TO": "kuningan",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "14:22"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 04 tebet arah kuningan maupun arah cawang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 04 tebet",
+            "TO": "cawang",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "14:22"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas jlnt casablanca jaksel arah tanah abang terpantau sudah kembali normal ",
+        "entities": {
+            "FROM": "ruas jlnt casablanca jaksel",
+            "TO": "tanah",
+            "STATUS": "sudah kembali",
+            "DATE": "21-06-2025",
+            "TIME": "13:50"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di kawasan pintu karnaval ancol jakarta utara terpantau cukup padat ",
+        "entities": {
+            "FROM": "kawasan pintu karnaval ancol jakarta utara",
+            "STATUS": "cukup padat",
+            "DATE": "21-06-2025",
+            "TIME": "13:11"
+        }
+    },
+    {
+        "text": " anggota satlantas jaktim melakukan pengamanan dan pengaturan lalu lintas sehubungan dengan adanya pengerjaan betonisasi jalan di depan mall cibubur junction jl jambore jaktim situasi arus lalu lintas sekitar lokasi terpantau masih ramai lancar ",
+        "entities": {
+            "FROM": "depan mall cibubur junction jl jambore jaktim situasi arus lalu lintas sekitar lokasi",
+            "STATUS": "masih ramai",
+            "DATE": "21-06-2025",
+            "TIME": "11:44"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jagorawi km 05 tmii arah pasar rebo terpantau cukup padat sedangkan arah cililitan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol jagorawi km 05 tmii",
+            "TO": "cililitan",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "10:47"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light rindam jl tb simatupang jaktim arah ampera maupun arah pasar rebo terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light rindam jl tb simatupang jaktim",
+            "TO": "ampera",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "10:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light rindam jl tb simatupang jaktim arah ampera maupun arah pasar rebo terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light rindam jl tb simatupang jaktim",
+            "TO": "pasar",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "10:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl raya bekasi cakung jaktim arah pulogadung terpantau cukup padat dikarenakan ada pengerjaan betonisasi jalan diimbau bagi pengguna jalan yang melintas agar berhati-hati ",
+        "entities": {
+            "FROM": "jl raya bekasi cakung jaktim",
+            "TO": "pulogadung",
+            "STATUS": "cukup padat",
+            "DATE": "21-06-2025",
+            "TIME": "09:48"
+        }
+    },
+    {
+        "text": " saat ini sedang ada pengerjaan rekontruksi rigit pengerasan jalan di ruas tol jorr km 40a untuk situasi arus lalu lintas yang menuju arah kampung rambutan terpantau masih ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol jorr km 40a",
+            "TO": "kampung",
+            "STATUS": "masih ramai",
+            "DATE": "21-06-2025",
+            "TIME": "09:44"
+        }
+    },
+    {
+        "text": " saat ini sedang ada pengerjaan pengecoran jalur transjakarta di depan halte transjakarta cawang-cikoko jalur arteri jl mt haryono jaktim situasi arus lalu lintas yang mengarah pancoran terpantau padat diimbau bagi pengguna jalan yang melintas agar berhati-hati ",
+        "entities": {
+            "FROM": "depan halte transjakarta cawang-cikoko jalur arteri jl mt haryono jaktim situasi arus lalu lintas yang",
+            "TO": "pancoran",
+            "STATUS": "padat diimbau",
+            "DATE": "21-06-2025",
+            "TIME": "09:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "pesing",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "08:57"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kalideres",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "08:57"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pintu besi jl gunung sahari jakpus arah kemayoran maupun arah ancol terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pintu besi jl gunung sahari jakpus",
+            "TO": "kemayoran",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "08:42"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pintu besi jl gunung sahari jakpus arah kemayoran maupun arah ancol terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pintu besi jl gunung sahari jakpus",
+            "TO": "ancol",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "08:42"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "bekasi",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "08:34"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "cilincing",
+            "STATUS": "ramai lancar",
+            "DATE": "21-06-2025",
+            "TIME": "08:34"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di off ramp rorotan terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp rorotan",
+            "STATUS": "lancar",
+            "DATE": "21-06-2025",
+            "TIME": "07:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light oteva arah traffic light harmoni terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light oteva",
+            "TO": "traffic",
+            "STATUS": "lancar",
+            "DATE": "21-06-2025",
+            "TIME": "07:10"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di gerbang tol pluit menuju arah bandara soetta maupun arah tanjung priok terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol pluit menuju",
+            "TO": "bandara",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "18:45"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di gerbang tol pluit menuju arah bandara soetta maupun arah tanjung priok terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol pluit menuju",
+            "TO": "tanjung",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "18:45"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light slipi menuju arah tomang terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light slipi menuju",
+            "TO": "tomang",
+            "STATUS": "ramai cenderung",
+            "DATE": "20-06-2025",
+            "TIME": "18:42"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol jorr e km 35 bambu apus terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol jorr e km 35 bambu apus",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "18:37"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota semanggi menuju arah cawang /tomang terpantau padat ",
+        "entities": {
+            "FROM": "ruas tol dalam kota semanggi menuju",
+            "TO": "cawang",
+            "STATUS": "padat",
+            "DATE": "20-06-2025",
+            "TIME": "18:31"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol jorr km 18 pondok pinang menuju arah serpong/meruya dan menuju arah fatmawati terpantau padat ",
+        "entities": {
+            "FROM": "ruas tol jorr km 18 pondok pinang menuju",
+            "TO": "serpong/meruya",
+            "STATUS": "padat",
+            "DATE": "20-06-2025",
+            "TIME": "18:11"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol jorr km 18 pondok pinang menuju arah serpong/meruya dan menuju arah fatmawati terpantau padat ",
+        "entities": {
+            "FROM": "ruas tol jorr km 18 pondok pinang menuju",
+            "TO": "fatmawati",
+            "STATUS": "padat",
+            "DATE": "20-06-2025",
+            "TIME": "18:11"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light halim lama jakarta timur menuju arah kalimalang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light halim lama jakarta timur menuju",
+            "TO": "kalimalang",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "16:45"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light matraman jakarta timur menuju arah jatinegara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light matraman jakarta timur menuju",
+            "TO": "jatinegara",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "16:19"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light garuda taman mini jakarta timur terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light garuda taman mini jakarta timur",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "16:14"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di bundaran lapiazza jakarta utara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "bundaran lapiazza jakarta utara",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "16:09"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light perintis kemerdekaan kelapa gading jakarta utara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light perintis kemerdekaan kelapa gading jakarta utara",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "16:08"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintasdi gerbang tol kuningan 2 menuju arah cawang terpantau ramai cenderung padat ",
+        "entities": {
+            "TO": "cawang",
+            "STATUS": "ramai cenderung",
+            "DATE": "20-06-2025",
+            "TIME": "16:06"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light ring road puri kembangan jakarta barat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light ring road puri kembangan jakarta barat",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "16:03"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di gerbang tol senayan menuju arah slipi terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "gerbang tol senayan menuju",
+            "TO": "slipi",
+            "STATUS": "ramai cenderung",
+            "DATE": "20-06-2025",
+            "TIME": "16:01"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light jalan hos cokroaminoto jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light jalan hos cokroaminoto jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "15:48"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran maupun arah cikampek terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "08:01"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran maupun arah cikampek terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "cikampek",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "08:01"
+        }
+    },
+    {
+        "text": " sehubungan dengan adanya pengerjaan perbaikan jalan di jl raya bekasi jaktim situasi arus lalu lintas yang menuju arah pulogadung terpantau padat ",
+        "entities": {
+            "FROM": "jl raya bekasi jaktim situasi arus lalu lintas yang menuju",
+            "TO": "pulogadung",
+            "STATUS": "padat",
+            "DATE": "20-06-2025",
+            "TIME": "07:26"
+        }
+    },
+    {
+        "text": " sebuah kendaraan truk mengalami gangguan patah as roda di ruas tol jorr km 0a sebelum exit tol lenteng agung arah kampung rambutan saat ini sedang dalam penanganan imbas dari kejadian tersebut untuk situasi arus lalu lintas di sekitar lokasi mengalami tersendat ",
+        "entities": {
+            "FROM": "sekitar lokasi mengalami tersendat",
+            "TO": "situasi",
+            "DATE": "20-06-2025",
+            "TIME": "07:17"
+        }
+    },
+    {
+        "text": " sebuah kendaraan truk mengalami gangguan di tanjakan fly over rawamangun jl pulomas jaktim saat ini anggota satlantas jaktim melakukan penanganan maupun pengaturan lalu lintas untuk situasi arus lalu lintas yang menuju arah jl ahmad yani terpantau masih ramai lancar ",
+        "entities": {
+            "FROM": "tanjakan fly over rawamangun jl pulomas jaktim saat ini anggota satlantas jaktim melakukan penanganan",
+            "TO": "jl",
+            "STATUS": "masih ramai",
+            "DATE": "20-06-2025",
+            "TIME": "07:11"
+        }
+    },
+    {
+        "text": " sebuah kendaraan truk mengalami gangguan di tanjakan fly over rawamangun jl pulomas jaktim saat ini anggota satlantas jaktim melakukan penanganan maupun pengaturan lalu lintas untuk situasi arus lalu lintas yang menuju arah jl ahmad yani terpantau masih ramai lancar ",
+        "entities": {
+            "FROM": "tanjakan fly over rawamangun jl pulomas jaktim saat ini anggota satlantas jaktim melakukan penanganan",
+            "TO": "situasi",
+            "STATUS": "masih ramai",
+            "DATE": "20-06-2025",
+            "TIME": "07:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light emporium pluit jakut arah muara angke maupun arah jembatan tiga terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light emporium pluit jakut",
+            "TO": "muara",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "06:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light emporium pluit jakut arah muara angke maupun arah jembatan tiga terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light emporium pluit jakut",
+            "TO": "jembatan",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "06:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "pesing",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "06:30"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kalideres",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "06:30"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light slipi jakbar arah tomang maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light slipi jakbar",
+            "TO": "tomang",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "06:28"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light slipi jakbar arah tomang maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light slipi jakbar",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "20-06-2025",
+            "TIME": "06:28"
+        }
+    },
+    {
+        "text": " polri sat lantas jakbar melakukan pengaturan arus lalu lintas di traffic light slipi jakarta barat situasi arus lalu lintas arah tomang terpantau ramai cenderung padat imbas volume kendaraan ",
+        "entities": {
+            "FROM": "traffic light slipi jakarta barat situasi arus lalu lintas",
+            "TO": "tomang",
+            "STATUS": "ramai cenderung",
+            "DATE": "19-06-2025",
+            "TIME": "17:35"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light carolus jl salemba raya jakarta pusat arah matraman terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light carolus jl salemba raya jakarta pusat",
+            "TO": "matraman",
+            "STATUS": "ramai lancar",
+            "DATE": "19-06-2025",
+            "TIME": "17:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pasar rebo arah cijantung dan yang akan mengarah traffic light caglak terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pasar rebo",
+            "TO": "cijantung",
+            "STATUS": "ramai lancar",
+            "DATE": "19-06-2025",
+            "TIME": "17:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pasar rebo arah cijantung dan yang akan mengarah traffic light caglak terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pasar rebo",
+            "TO": "traffic",
+            "STATUS": "ramai lancar",
+            "DATE": "19-06-2025",
+            "TIME": "17:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light garuda arah tmii dan yang akan mengarah pondok gede terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light garuda",
+            "TO": "tmii",
+            "STATUS": "lancar",
+            "DATE": "19-06-2025",
+            "TIME": "17:27"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light garuda arah tmii dan yang akan mengarah pondok gede terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light garuda",
+            "TO": "pondok",
+            "STATUS": "lancar",
+            "DATE": "19-06-2025",
+            "TIME": "17:27"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol kuningan 2 arah cawang dan sebaliknya arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol kuningan 2",
+            "TO": "cawang",
+            "STATUS": "ramai lancar",
+            "DATE": "19-06-2025",
+            "TIME": "17:25"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol kuningan 2 arah cawang dan sebaliknya arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol kuningan 2",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "19-06-2025",
+            "TIME": "17:25"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pgc arah kramat jati terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pgc",
+            "TO": "kramat",
+            "STATUS": "ramai lancar",
+            "DATE": "19-06-2025",
+            "TIME": "16:09"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di interchange cawang arah jagorawi dan yg akan mengarah ruas tol jakarta-cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "interchange cawang",
+            "TO": "jagorawi",
+            "STATUS": "lancar",
+            "DATE": "19-06-2025",
+            "TIME": "16:06"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di interchange cawang arah jagorawi dan yg akan mengarah ruas tol jakarta-cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "interchange cawang",
+            "TO": "ruas",
+            "STATUS": "lancar",
+            "DATE": "19-06-2025",
+            "TIME": "16:06"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cempaka putih jakarta pusat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "19-06-2025",
+            "TIME": "16:03"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di kolong tol cakung cilincing tepatnya depan pospol cakung terpantau lancar ",
+        "entities": {
+            "FROM": "kolong tol cakung cilincing tepatnya depan pospol cakung",
+            "STATUS": "lancar",
+            "DATE": "19-06-2025",
+            "TIME": "15:58"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota pancoran menuju arah cawang terpantau padat sedangkan arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota pancoran menuju",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "22:02"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light blok p jl prapanca raya jaksel arah kemang maupun arah blok m terpantau cukup padat ",
+        "entities": {
+            "FROM": "traffic light blok p jl prapanca raya jaksel",
+            "TO": "kemang",
+            "STATUS": "cukup padat",
+            "DATE": "18-06-2025",
+            "TIME": "19:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light blok p jl prapanca raya jaksel arah kemang maupun arah blok m terpantau cukup padat ",
+        "entities": {
+            "FROM": "traffic light blok p jl prapanca raya jaksel",
+            "TO": "blok",
+            "STATUS": "cukup padat",
+            "DATE": "18-06-2025",
+            "TIME": "19:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pintu besi jl gunung sahari jakpus arah ancol maupun arah kemayoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pintu besi jl gunung sahari jakpus",
+            "TO": "ancol",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "18:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pintu besi jl gunung sahari jakpus arah ancol maupun arah kemayoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pintu besi jl gunung sahari jakpus",
+            "TO": "kemayoran",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "18:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 07 semanggi arah kuningan maupun arah slipi terpantau cukup padat ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 07 semanggi",
+            "TO": "kuningan",
+            "STATUS": "cukup padat",
+            "DATE": "18-06-2025",
+            "TIME": "18:26"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 07 semanggi arah kuningan maupun arah slipi terpantau cukup padat ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 07 semanggi",
+            "TO": "slipi",
+            "STATUS": "cukup padat",
+            "DATE": "18-06-2025",
+            "TIME": "18:26"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light karet bivak jakpus arah dukuh atas maupun arah pejompongan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light karet bivak jakpus",
+            "TO": "dukuh",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "17:01"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light karet bivak jakpus arah dukuh atas maupun arah pejompongan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light karet bivak jakpus",
+            "TO": "pejompongan",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "17:01"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kalibata jaksel arah pasar minggu maupun arah pancoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kalibata jaksel",
+            "TO": "pasar",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "16:53"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kalibata jaksel arah pasar minggu maupun arah pancoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kalibata jaksel",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "16:53"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di underpass tomang jakbar arah ruas tol jakarta-tangerang terpantau padat ",
+        "entities": {
+            "FROM": "underpass tomang jakbar",
+            "TO": "ruas",
+            "STATUS": "padat",
+            "DATE": "18-06-2025",
+            "TIME": "16:36"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light matraman jaktim arah jatinegara maupun arah jl pramuka raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light matraman jaktim",
+            "TO": "jatinegara",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "16:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light matraman jaktim arah jatinegara maupun arah jl pramuka raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light matraman jaktim",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "16:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "pesing",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "16:09"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kalideres",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "16:09"
+        }
+    },
+    {
+        "text": " saat ini sedang berlangsung kegiatan penyampaian pendapat di depan pt inpex plaza senayan jakpus untuk situasi arus lalu lintas yang mengarah pakubuwono terpantau masih ramai lancar ",
+        "entities": {
+            "FROM": "depan pt inpex plaza senayan jakpus",
+            "TO": "pakubuwono",
+            "STATUS": "masih ramai",
+            "DATE": "18-06-2025",
+            "TIME": "15:51"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jakpus arah jl mh thamrin maupun arah harmoni terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "15:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jakpus arah jl mh thamrin maupun arah harmoni terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jakpus",
+            "TO": "harmoni",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "15:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl rasuna said jaksel arah menteng maupun arah kuningan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl rasuna said jaksel",
+            "TO": "menteng",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "14:08"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl rasuna said jaksel arah menteng maupun arah kuningan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl rasuna said jaksel",
+            "TO": "kuningan",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "14:08"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "13:03"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "18-06-2025",
+            "TIME": "13:03"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jalur arteri jl gatot subroto arah slipi maupun arah senayan terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "jalur arteri jl gatot subroto",
+            "TO": "slipi",
+            "STATUS": "ramai cenderung",
+            "DATE": "18-06-2025",
+            "TIME": "12:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jalur arteri jl gatot subroto arah slipi maupun arah senayan terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "jalur arteri jl gatot subroto",
+            "TO": "senayan",
+            "STATUS": "ramai cenderung",
+            "DATE": "18-06-2025",
+            "TIME": "12:38"
+        }
+    },
+    {
+        "text": " kegiatan penyampaian pendapat di depan mahkamah agung republik indonesia jl medan merdeka utara situasi arus lalu lintas ramai lancar ",
+        "entities": {
+            "FROM": "depan mahkamah agung republik indonesia jl medan merdeka utara situasi arus lalu lintas ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "13:26"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan gerbang pemuda senayan jakarta pusat terpantau ramai lancar dikedua arahnya ",
+        "entities": {
+            "FROM": "ruas jalan gerbang pemuda senayan jakarta pusat",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "12:35"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol wiyoto wiyono km 28 menuju arah bandara soetta/jakarta terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol wiyoto wiyono km 28 menuju",
+            "TO": "bandara",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "12:28"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol jorr km 15 ulujami terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol jorr km 15 ulujami",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "11:37"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "11:33"
+        }
+    },
+    {
+        "text": " sekitar pukul  wib terjadi kecelakaan di ruas tol ir wiyoto wiyono km 0 arah bandara soetta saat ini sudah berhasil dievakuasi dan situasi arus lalu lintas kembali normal ramai lancar ",
+        "entities": {
+            "OBSTACLE": [
+                "kecelakaan"
+            ],
+            "FROM": "ruas tol ir wiyoto wiyono km 0",
+            "TO": "bandara",
+            "DATE": "17-06-2025",
+            "TIME": "09:48"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light kalibata jakarta selatan menuju arah pancoran terpantau padat sedangkana arah pasar minggu ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kalibata jakarta selatan menuju",
+            "TO": "pasar",
+            "STATUS": "padat sedangkana",
+            "DATE": "17-06-2025",
+            "TIME": "09:18"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light cawang interchange jakarta timur terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cawang interchange jakarta timur",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "09:13"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light halim baru jl mayjen sutoyo cawang jaktim arah jl mt haryono maupun arah jl di panjaitan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "panjaitan",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "08:00"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light halim baru jl mayjen sutoyo cawang jaktim arah jl mt haryono maupun arah jl di panjaitan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "panjaitan",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "08:00"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran terpantau cukup padat sedangkan arah cikampek terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "cikampek",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "07:03"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light tugu tani jakpus arah jl medan merdeka selatan maupun arah kwitang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "06:44"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light tugu tani jakpus arah jl medan merdeka selatan maupun arah kwitang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani jakpus",
+            "TO": "kwitang",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "06:44"
+        }
+    },
+    {
+        "text": " anggota satlantas jakbar bersama petugas transjakarta melakukan proses evakuasi maupun pembersihan jalan pasca terjadinya kecelakaan lalu lintas di di jl s parman jakarta barat titik kenal depan rs dharmais untuk situasi arus lalu lintas yang mengarah slipi terpantau ",
+        "entities": {
+            "OBSTACLE": [
+                "kecelakaan"
+            ],
+            "FROM": "di jl s parman jakarta barat titik kenal depan rs dharmais",
+            "TO": "slipi",
+            "DATE": "17-06-2025",
+            "TIME": "06:38"
+        }
+    },
+    {
+        "text": " anggota satlantas jakbar bersama petugas transjakarta melakukan proses evakuasi maupun pembersihan jalan pasca terjadinya kecelakaan lalu lintas di di jl s parman jakarta barat titik kenal depan rs dharmais untuk situasi arus lalu lintas yang mengarah slipi terpantau ",
+        "entities": {
+            "OBSTACLE": [
+                "kecelakaan"
+            ],
+            "FROM": "di jl s parman jakarta barat titik kenal depan rs dharmais",
+            "TO": "situasi",
+            "DATE": "17-06-2025",
+            "TIME": "06:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light emporium pluit jakut arah muara angke maupun arah jembatan tiga terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light emporium pluit jakut",
+            "TO": "muara",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "06:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light emporium pluit jakut arah muara angke maupun arah jembatan tiga terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light emporium pluit jakut",
+            "TO": "jembatan",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "06:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "pesing",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "06:25"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cengkareng jakbar arah pesing maupun arah kalideres terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng jakbar",
+            "TO": "kalideres",
+            "STATUS": "ramai lancar",
+            "DATE": "17-06-2025",
+            "TIME": "06:25"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light raden inten kalimalang jaktim arah bekasi maupun arah cawang terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light raden inten kalimalang jaktim",
+            "TO": "bekasi",
+            "STATUS": "lancar",
+            "DATE": "17-06-2025",
+            "TIME": "05:59"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light raden inten kalimalang jaktim arah bekasi maupun arah cawang terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light raden inten kalimalang jaktim",
+            "TO": "cawang",
+            "STATUS": "lancar",
+            "DATE": "17-06-2025",
+            "TIME": "05:59"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light asemka tamansari jakbar arah kota tua maupun arah tambora terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light asemka tamansari jakbar",
+            "TO": "kota",
+            "STATUS": "lancar",
+            "DATE": "17-06-2025",
+            "TIME": "05:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light asemka tamansari jakbar arah kota tua maupun arah tambora terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light asemka tamansari jakbar",
+            "TO": "tambora",
+            "STATUS": "lancar",
+            "DATE": "17-06-2025",
+            "TIME": "05:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 interchange cawang arah jagorawi maupun arah cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 interchange cawang",
+            "TO": "jagorawi",
+            "STATUS": "lancar",
+            "DATE": "16-06-2025",
+            "TIME": "22:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 interchange cawang arah jagorawi maupun arah cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 interchange cawang",
+            "TO": "cikampek",
+            "STATUS": "lancar",
+            "DATE": "16-06-2025",
+            "TIME": "22:24"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar jl raya bogor jaktim traffic light pasar rebo untuk situasi arus lalu lintas menuju arah kampung rambutan terpantau ramai ",
+        "entities": {
+            "FROM": "sekitar jl raya bogor jaktim traffic light pasar rebo",
+            "TO": "kampung",
+            "STATUS": "ramai",
+            "DATE": "16-06-2025",
+            "TIME": "21:45"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar jl raya bogor jaktim traffic light pasar rebo untuk situasi arus lalu lintas menuju arah kampung rambutan terpantau ramai ",
+        "entities": {
+            "FROM": "sekitar jl raya bogor jaktim traffic light pasar rebo",
+            "TO": "situasi",
+            "STATUS": "ramai",
+            "DATE": "16-06-2025",
+            "TIME": "21:45"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light raden inten jakarta timur terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light raden inten jakarta timur",
+            "STATUS": "ramai lancar",
+            "DATE": "16-06-2025",
+            "TIME": "17:28"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light caglak jakarta timur arah pasar rebo terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light caglak jakarta timur",
+            "TO": "pasar",
+            "STATUS": "ramai lancar",
+            "DATE": "16-06-2025",
+            "TIME": "17:27"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di traffic light fatmawati jakarta selatan arah lebak bulus terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light fatmawati jakarta selatan",
+            "TO": "lebak",
+            "STATUS": "ramai lancar",
+            "DATE": "16-06-2025",
+            "TIME": "16:16"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di traffic light cengkareng timur jakarta barat terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cengkareng timur jakarta barat",
+            "STATUS": "ramai lancar",
+            "DATE": "16-06-2025",
+            "TIME": "16:14"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di traffic light hankam bintaro jakarta selatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light hankam bintaro jakarta selatan",
+            "STATUS": "ramai lancar",
+            "DATE": "16-06-2025",
+            "TIME": "16:09"
+        }
+    },
+    {
+        "text": " polri sat pjr pmj melakukan pengaturan arus lalu lintas di simpang jagorawi situasi arus lalu lintas terpantau lancar ",
+        "entities": {
+            "FROM": "simpang jagorawi situasi arus lalu lintas",
+            "STATUS": "lancar",
+            "DATE": "16-06-2025",
+            "TIME": "16:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol meruya utama 3 terpantau lancar ",
+        "entities": {
+            "FROM": "gerbang tol meruya utama 3",
+            "STATUS": "lancar",
+            "DATE": "16-06-2025",
+            "TIME": "16:02"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di halim lama jaktim arah pancoran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "halim lama jaktim",
+            "TO": "pancoran",
+            "STATUS": "ramai cenderung",
+            "DATE": "16-06-2025",
+            "TIME": "07:39"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota gerbang tol semanggi 2 menuju arah cawang terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota gerbang tol semanggi 2 menuju",
+            "TO": "cawang",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "20:44"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol jagorawi km 17 terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol jagorawi km 17",
+            "STATUS": "ramai lancar",
+            "DATE": "15-06-2025",
+            "TIME": "20:40"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol dalam kota km 08 semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 08 semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "15-06-2025",
+            "TIME": "20:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jagorawi km 07 terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol jagorawi km 07",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "13:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jl medan merdeka barat jakpus arah jl medan merdeka selatan maupun arah jl mh thamrin terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jl medan merdeka barat jakpus",
+            "TO": "jl",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "11:18"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jl medan merdeka barat jakpus arah jl medan merdeka selatan maupun arah jl mh thamrin terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jl medan merdeka barat jakpus",
+            "TO": "jl",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "11:18"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jakarta-cikampek km 09 cikunir terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol jakarta-cikampek km 09 cikunir",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "10:09"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jakarta-tangerang turunan jembatan gelong arah meruya maupun arah kebon jeruk terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol jakarta-tangerang turunan jembatan gelong",
+            "TO": "meruya",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "09:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jakarta-tangerang turunan jembatan gelong arah meruya maupun arah kebon jeruk terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol jakarta-tangerang turunan jembatan gelong",
+            "TO": "kebon",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "09:38"
+        }
+    },
+    {
+        "text": " anggota satlantas jakpus melakukan pengamanan kegiatan long march dalam rangka aksi bela palestina di kawasan traffic light cokroaminoto jakarta pusat situasi arus lalu lintas menuju arah jl imam bonjol maupun arah jl diponegoro terpantau ramai lancar ",
+        "entities": {
+            "FROM": "kawasan traffic light cokroaminoto jakarta pusat situasi arus lalu lintas menuju",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "15-06-2025",
+            "TIME": "09:02"
+        }
+    },
+    {
+        "text": " anggota satlantas jakpus melakukan pengamanan kegiatan long march dalam rangka aksi bela palestina di kawasan traffic light cokroaminoto jakarta pusat situasi arus lalu lintas menuju arah jl imam bonjol maupun arah jl diponegoro terpantau ramai lancar ",
+        "entities": {
+            "FROM": "kawasan traffic light cokroaminoto jakarta pusat situasi arus lalu lintas menuju",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "15-06-2025",
+            "TIME": "09:02"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cempaka putih jakpus arah pulo gadung maupun arah jl letjen suprapto terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih jakpus",
+            "TO": "pulo",
+            "STATUS": "ramai lancar",
+            "DATE": "15-06-2025",
+            "TIME": "08:20"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cempaka putih jakpus arah pulo gadung maupun arah jl letjen suprapto terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "15-06-2025",
+            "TIME": "08:20"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light salemba jakpus arah matraman maupun arah jl kramat raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light salemba jakpus",
+            "TO": "matraman",
+            "STATUS": "ramai lancar",
+            "DATE": "15-06-2025",
+            "TIME": "08:19"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light salemba jakpus arah matraman maupun arah jl kramat raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light salemba jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "15-06-2025",
+            "TIME": "08:19"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di gerbang tol cilandak utama terpantau lancar ",
+        "entities": {
+            "FROM": "gerbang tol cilandak utama",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "07:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di off ramp cipete terpantau lancar dan yang akan mengarah lebak bulus terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp cipete",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "07:16"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di off ramp cipete terpantau lancar dan yang akan mengarah lebak bulus terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp cipete",
+            "STATUS": "lancar",
+            "DATE": "15-06-2025",
+            "TIME": "07:16",
+            "TO": "lebak"
+        }
+    },
+    {
+        "text": " polri dit lantas pmj melakukan pengalihan arus lalu lintas sementara di pertigaan raden patah jakarta selatan situasi arus lalu lintas arah bundaran senayan dialihkan ke traffic light al-azhar ",
+        "entities": {
+            "FROM": "pertigaan raden patah jakarta selatan situasi arus lalu lintas",
+            "TO": "bundaran",
+            "DATE": "15-06-2025",
+            "TIME": "07:14"
+        }
+    },
+    {
+        "text": " perbaikan portal layang flyover gelong arah tol jakarta-tangerang bagi pengguna jalan yang akan menuju tol jakarta-tangerang dialihkan melalui jalur arteri jalan s parman traffic light tomang situasi arus lalu lintas terpantau ramai lancar ",
+        "entities": {
+            "TO": "tol",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "19:19"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light raden inten kalimalang menuju arah bekasi/jakarta terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light raden inten kalimalang menuju",
+            "TO": "bekasi/jakarta",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "18:26"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light pos 9 pelabuhan tanjung priok jakarta utara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pos 9 pelabuhan tanjung priok jakarta utara",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "17:54"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light jalan prapanca raya jakarta selatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light jalan prapanca raya jakarta selatan",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "17:53"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light halim baru jalan di panjaitan menuju arah kalimang terpantau padat ",
+        "entities": {
+            "FROM": "traffic light halim baru jalan di panjaitan menuju",
+            "TO": "kalimang",
+            "STATUS": "padat",
+            "DATE": "14-06-2025",
+            "TIME": "17:35"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light kemang jakarta selatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kemang jakarta selatan",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "16:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl raya bogor jaktim depan pasar induk kramat jati arah cililitan maupun arah cijantung terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl raya bogor jaktim depan pasar induk kramat jati",
+            "TO": "cililitan",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "07:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl raya bogor jaktim depan pasar induk kramat jati arah cililitan maupun arah cijantung terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl raya bogor jaktim depan pasar induk kramat jati",
+            "TO": "cijantung",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "07:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pasar rebo jaktim arah kampung rambutan maupun arah jl tb simatupang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pasar rebo jaktim",
+            "TO": "kampung",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "06:46"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pasar rebo jaktim arah kampung rambutan maupun arah jl tb simatupang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pasar rebo jaktim",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "06:46"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light graha cijantung jaktim arah bogor maupun arah cililitan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light graha cijantung jaktim",
+            "TO": "bogor",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "06:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light graha cijantung jaktim arah bogor maupun arah cililitan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light graha cijantung jaktim",
+            "TO": "cililitan",
+            "STATUS": "ramai lancar",
+            "DATE": "14-06-2025",
+            "TIME": "06:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light asemka jakbar arah tambora maupun arah kota tua terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light asemka jakbar",
+            "TO": "tambora",
+            "STATUS": "lancar",
+            "DATE": "14-06-2025",
+            "TIME": "05:25"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light asemka jakbar arah tambora maupun arah kota tua terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light asemka jakbar",
+            "TO": "kota",
+            "STATUS": "lancar",
+            "DATE": "14-06-2025",
+            "TIME": "05:25"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar jl raya bogor jaktim depan pasar induk kramat jati untuk situasi arus lalu lintas menuju arah cililitan terpantau ramai ",
+        "entities": {
+            "FROM": "sekitar jl raya bogor jaktim depan pasar induk kramat jati",
+            "TO": "cililitan",
+            "STATUS": "ramai",
+            "DATE": "13-06-2025",
+            "TIME": "21:42"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar jl raya bogor jaktim depan pasar induk kramat jati untuk situasi arus lalu lintas menuju arah cililitan terpantau ramai ",
+        "entities": {
+            "FROM": "sekitar jl raya bogor jaktim depan pasar induk kramat jati",
+            "TO": "situasi",
+            "STATUS": "ramai",
+            "DATE": "13-06-2025",
+            "TIME": "21:42"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar jl raya cakung jaktim untuk situasi arus lalu lintas menuju arah bekasi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "sekitar jl raya cakung jaktim",
+            "TO": "bekasi",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "21:24"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar jl raya cakung jaktim untuk situasi arus lalu lintas menuju arah bekasi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "sekitar jl raya cakung jaktim",
+            "TO": "situasi",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "21:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 03 tebet arah cawang terpantau cukup padat sedangkan arah pancoran terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 03 tebet",
+            "TO": "pancoran",
+            "STATUS": "lancar",
+            "DATE": "13-06-2025",
+            "TIME": "20:39"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "bekasi",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "20:26"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "cilincing",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "20:26"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light bintang mas ancol jakut arah tanjung priok maupun arah cilincing terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light bintang mas ancol jakut",
+            "TO": "tanjung",
+            "STATUS": "lancar",
+            "DATE": "13-06-2025",
+            "TIME": "20:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light bintang mas ancol jakut arah tanjung priok maupun arah cilincing terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light bintang mas ancol jakut",
+            "TO": "cilincing",
+            "STATUS": "lancar",
+            "DATE": "13-06-2025",
+            "TIME": "20:17"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di traffic light fatmawati jakarta selatan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light fatmawati jakarta selatan",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "17:00"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di ruas tol interchange cawang arah jagorawi dan yang akan mengarah ruas tol jakarta-cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol interchange cawang",
+            "TO": "jagorawi",
+            "STATUS": "lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:46"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di ruas tol interchange cawang arah jagorawi dan yang akan mengarah ruas tol jakarta-cikampek terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol interchange cawang",
+            "TO": "ruas",
+            "STATUS": "lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:46"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di traffic light cempaka putih terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:42"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di off ramp cikunir 1 arah ruas tol jakarta-cikampek dan yang akan mengarah jati asih terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp cikunir 1",
+            "TO": "ruas",
+            "STATUS": "lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:40"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas terkini di off ramp cikunir 1 arah ruas tol jakarta-cikampek dan yang akan mengarah jati asih terpantau lancar ",
+        "entities": {
+            "FROM": "off ramp cikunir 1",
+            "TO": "jati",
+            "STATUS": "lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:40"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol senayan arah slipi maupun sebaliknya arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol senayan",
+            "TO": "slipi",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:34"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol senayan arah slipi maupun sebaliknya arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol senayan",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:34"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl jenderal sudirman tepatnya turunan layang semanggi arah bundaran senayan terpantau ramai cenderung padat imbas volume kendaraan ",
+        "entities": {
+            "FROM": "jl jenderal sudirman tepatnya turunan layang semanggi",
+            "TO": "bundaran",
+            "STATUS": "ramai cenderung",
+            "DATE": "13-06-2025",
+            "TIME": "16:30"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol kuningan 2 arah semanggi dan sebaliknya arah cawang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol kuningan 2",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:28"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di gerbang tol kuningan 2 arah semanggi dan sebaliknya arah cawang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol kuningan 2",
+            "TO": "cawang",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "16:28"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl jenderal sudirman tepatnya kolong semanggi jakarta pusat arah bundaran senayan dan sebaliknya arah bendungan hilir terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl jenderal sudirman tepatnya kolong semanggi jakarta pusat",
+            "TO": "bundaran",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "14:52"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl jenderal sudirman tepatnya kolong semanggi jakarta pusat arah bundaran senayan dan sebaliknya arah bendungan hilir terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl jenderal sudirman tepatnya kolong semanggi jakarta pusat",
+            "TO": "bendungan",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "14:52"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di tol desari exit antasari terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "tol desari exit antasari",
+            "STATUS": "ramai cenderung",
+            "DATE": "13-06-2025",
+            "TIME": "06:48"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light perintis jakut terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light perintis jakut",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "06:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di tol dalam kota exit semanggi arah slipi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "tol dalam kota exit semanggi",
+            "TO": "slipi",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "06:28"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light garuda / tmi square jaktim terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light garuda / tmi square jaktim",
+            "STATUS": "ramai lancar",
+            "DATE": "13-06-2025",
+            "TIME": "06:21"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light cempaka putih terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "20:57"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light tugu tani jakarta pusat menuju arah kwitang/jalan medan merdeka timur terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani jakarta pusat menuju",
+            "TO": "kwitang/jalan",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "20:56"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di underpass tomang jakbar arah ruas tol jakarta-tangerang terpantau cukup padat ",
+        "entities": {
+            "FROM": "underpass tomang jakbar",
+            "TO": "ruas",
+            "STATUS": "cukup padat",
+            "DATE": "12-06-2025",
+            "TIME": "20:54"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light matraman jaktim arah jl pramuka maupun arah jatinegara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light matraman jaktim",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "19:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light matraman jaktim arah jl pramuka maupun arah jatinegara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light matraman jaktim",
+            "TO": "jatinegara",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "19:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cawang kompor jl otista raya jaktim arah jl dewi sartika maupun arah jatinegara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cawang kompor jl otista raya jaktim",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "19:26"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cawang kompor jl otista raya jaktim arah jl dewi sartika maupun arah jatinegara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cawang kompor jl otista raya jaktim",
+            "TO": "jatinegara",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "19:26"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran terpantau padat sedangkan arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "18:28"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl sultan iskandar muda jaksel depan gandaria city arah pondok indah maupun arah kebayoran lama terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl sultan iskandar muda jaksel depan gandaria city",
+            "TO": "pondok",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "17:35"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl sultan iskandar muda jaksel depan gandaria city arah pondok indah maupun arah kebayoran lama terpantau ramai lancar ",
+        "entities": {
+            "FROM": "jl sultan iskandar muda jaksel depan gandaria city",
+            "TO": "kebayoran",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "17:35"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kalibata jaksel arah pasar minggu maupun arah pancoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kalibata jaksel",
+            "TO": "pasar",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "17:20"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kalibata jaksel arah pasar minggu maupun arah pancoran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kalibata jaksel",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "17:20"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jalur arteri jl gatot subroto jaksel arah ruas senayan maupun arah slipi terpantau cukup padat ",
+        "entities": {
+            "FROM": "jalur arteri jl gatot subroto jaksel",
+            "TO": "ruas",
+            "STATUS": "cukup padat",
+            "DATE": "12-06-2025",
+            "TIME": "17:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jalur arteri jl gatot subroto jaksel arah ruas senayan maupun arah slipi terpantau cukup padat ",
+        "entities": {
+            "FROM": "jalur arteri jl gatot subroto jaksel",
+            "TO": "slipi",
+            "STATUS": "cukup padat",
+            "DATE": "12-06-2025",
+            "TIME": "17:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di underpass tomang jakbar arah ruas tol jakarta-tangerang terpantau cukup padat ",
+        "entities": {
+            "FROM": "underpass tomang jakbar",
+            "TO": "ruas",
+            "STATUS": "cukup padat",
+            "DATE": "12-06-2025",
+            "TIME": "16:43"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light halim lama jl di panjaitan jaktim arah cipinang maupun arah kalimalang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light halim lama jl di panjaitan jaktim",
+            "TO": "cipinang",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "16:23"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light halim lama jl di panjaitan jaktim arah cipinang maupun arah kalimalang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light halim lama jl di panjaitan jaktim",
+            "TO": "kalimalang",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "16:23"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl satrio jaksel arah kampung melayu maupun arah tanah abang terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "jl satrio jaksel",
+            "TO": "kampung",
+            "STATUS": "ramai cenderung",
+            "DATE": "12-06-2025",
+            "TIME": "16:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di jl satrio jaksel arah kampung melayu maupun arah tanah abang terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "jl satrio jaksel",
+            "TO": "tanah",
+            "STATUS": "ramai cenderung",
+            "DATE": "12-06-2025",
+            "TIME": "16:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light tugu tani jakpus arah jl medan merdeka selatan maupun arah kwitang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "15:44"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light tugu tani jakpus arah jl medan merdeka selatan maupun arah kwitang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani jakpus",
+            "TO": "kwitang",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "15:44"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jl medan merdeka barat jakpus arah jl mh thamrin maupun arah gambir terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jl medan merdeka barat jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "15:16"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light patung kuda monas jl medan merdeka barat jakpus arah jl mh thamrin maupun arah gambir terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light patung kuda monas jl medan merdeka barat jakpus",
+            "TO": "gambir",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "15:16"
+        }
+    },
+    {
+        "text": " saat ini sedang berlangsung kegiatan penyampaian pendapat dari koalisi masyarakat di kawasan silang selatan monas jl medan merdeka selatan jakpus untuk situasi arus lalu lintas terpantau masih ramai lancar ",
+        "entities": {
+            "FROM": "kawasan silang selatan monas jl medan merdeka selatan jakpus",
+            "TO": "situasi",
+            "STATUS": "masih ramai",
+            "DATE": "12-06-2025",
+            "TIME": "15:01"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kuningan jaksel arah mampang prapatan maupun arah jl rasuna said terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kuningan jaksel",
+            "TO": "mampang",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "14:30"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kuningan jaksel arah mampang prapatan maupun arah jl rasuna said terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kuningan jaksel",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "14:30"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light blok o jl prapanca raya jakarta selatan arah kemang maupun arah blok m terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light blok o jl prapanca raya jakarta selatan",
+            "TO": "kemang",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "13:52"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light blok o jl prapanca raya jakarta selatan arah kemang maupun arah blok m terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light blok o jl prapanca raya jakarta selatan",
+            "TO": "blok",
+            "STATUS": "ramai lancar",
+            "DATE": "12-06-2025",
+            "TIME": "13:52"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kodim lama jatinegara jaktim arah kampung melayu maupun arah buaran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light kodim lama jatinegara jaktim",
+            "TO": "kampung",
+            "STATUS": "ramai cenderung",
+            "DATE": "12-06-2025",
+            "TIME": "13:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kodim lama jatinegara jaktim arah kampung melayu maupun arah buaran terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light kodim lama jatinegara jaktim",
+            "TO": "buaran",
+            "STATUS": "ramai cenderung",
+            "DATE": "12-06-2025",
+            "TIME": "13:32"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan gatot subroto depan plaza mandiri arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas jalan gatot subroto depan plaza mandiri",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "18:24"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light halim baru cawang jakarta timur terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light halim baru cawang jakarta timur",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "17:36"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di gerbang tol kapuk menuju arah bandara soetta/jakarta terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol kapuk menuju",
+            "TO": "bandara",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "17:34"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light lapangan tembak senayan terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light lapangan tembak senayan",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "16:34"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di gerbang tol pluit 1 terpantau ramai lancar ",
+        "entities": {
+            "FROM": "gerbang tol pluit 1",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "16:32"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light santa jakarta selatan menuju arah mampang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light santa jakarta selatan menuju",
+            "TO": "mampang",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "16:30"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light halim lama jakarta timur menuju arah kalimalang terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light halim lama jakarta timur menuju",
+            "TO": "kalimalang",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "16:28"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di traffic light jaya koja jakarta utara terpantau padat ",
+        "entities": {
+            "FROM": "traffic light jaya koja jakarta utara",
+            "STATUS": "padat",
+            "DATE": "11-06-2025",
+            "TIME": "16:06"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di gerbang tol senayan menuju arah tomang terpantau padat ",
+        "entities": {
+            "FROM": "gerbang tol senayan menuju",
+            "TO": "tomang",
+            "STATUS": "padat",
+            "DATE": "11-06-2025",
+            "TIME": "16:04"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas jalan prapanca raya menuju arah antasari putaran terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas jalan prapanca raya menuju",
+            "TO": "antasari",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "16:03"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di putaran bogasari jakarta utara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "putaran bogasari jakarta utara",
+            "STATUS": "ramai lancar",
+            "DATE": "11-06-2025",
+            "TIME": "16:01"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar jl raya bekasi jaktim ujung menteng untuk situasi arus lalu lintas terpantau ramai lancar ",
+        "entities": {
+            "FROM": "sekitar jl raya bekasi jaktim ujung menteng",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "23:24"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar jl raya bekasi jaktim ujung menteng untuk situasi arus lalu lintas terpantau ramai lancar ",
+        "entities": {
+            "FROM": "sekitar jl raya bekasi jaktim ujung menteng",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "23:24",
+            "TO": "situasi"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "22:13"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "22:13"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar traffic light pasar rebo jaktim putaran lotte untuk situasi arus lalu lintas yang mengarah terbus kampung rambutan terpantau ",
+        "entities": {
+            "FROM": "sekitar traffic light pasar rebo jaktim putaran lotte",
+            "TO": "terbus",
+            "DATE": "10-06-2025",
+            "TIME": "21:29"
+        }
+    },
+    {
+        "text": " anggota sat lantas jakarta timur melakukan pengamanan maupun pengaturan lalu lintas sehubungan dengan adanya pengerjaan perbaikan jalan di sekitar traffic light pasar rebo jaktim putaran lotte untuk situasi arus lalu lintas yang mengarah terbus kampung rambutan terpantau ",
+        "entities": {
+            "FROM": "sekitar traffic light pasar rebo jaktim putaran lotte",
+            "TO": "situasi",
+            "DATE": "10-06-2025",
+            "TIME": "21:29"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jakarta-tangerang km 00 underpass tomang arah meruya terpantau padat sedangkan arah jelambar terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol jakarta-tangerang km 00 underpass tomang",
+            "TO": "jelambar",
+            "STATUS": "lancar",
+            "DATE": "10-06-2025",
+            "TIME": "21:04"
+        }
+    },
+    {
+        "text": " sebuah kendaraan truk muatan pasir mengalami kecelakaan lalu lintas tunggal di ruas tol jorr km 20 titik kenal setelah gerbang tol pondok pinang saat ini sedang dalam penanganan petugas untuk situasi arus lalu lintas di sekitar lokasi mengalami tersendat ",
+        "entities": {
+            "OBSTACLE": [
+                "kecelakaan"
+            ],
+            "FROM": "sekitar lokasi mengalami tersendat",
+            "TO": "situasi",
+            "DATE": "10-06-2025",
+            "TIME": "20:36"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light slipi jakbar arah tomang terpantau padat ",
+        "entities": {
+            "FROM": "traffic light slipi jakbar",
+            "TO": "tomang",
+            "STATUS": "padat",
+            "DATE": "10-06-2025",
+            "TIME": "20:29"
+        }
+    },
+    {
+        "text": " polri sat lantas jakpus melaksanakan pengaturan arus lalu lintas di traffic light carolus jl salemba raya jakarta pusat situasi arus lalu lintas arah matraman terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light carolus jl salemba raya jakarta pusat situasi arus lalu lintas",
+            "TO": "matraman",
+            "STATUS": "ramai cenderung",
+            "DATE": "10-06-2025",
+            "TIME": "18:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light garuda tmii jakarta timur arah hek dan sebaliknya arah pondok gede terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light garuda tmii jakarta timur",
+            "TO": "hek",
+            "STATUS": "lancar",
+            "DATE": "10-06-2025",
+            "TIME": "18:27"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light garuda tmii jakarta timur arah hek dan sebaliknya arah pondok gede terpantau lancar ",
+        "entities": {
+            "FROM": "traffic light garuda tmii jakarta timur",
+            "TO": "pondok",
+            "STATUS": "lancar",
+            "DATE": "10-06-2025",
+            "TIME": "18:27"
+        }
+    },
+    {
+        "text": " polri sat lantas jakbar melakukan pengaturan arus lalu lintas di jl letjend sparman tepatnya depan halte transjakarta kemanggisan situasi arus lalu lintas terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "jl letjend sparman tepatnya depan halte transjakarta kemanggisan situasi arus lalu lintas",
+            "STATUS": "ramai cenderung",
+            "DATE": "10-06-2025",
+            "TIME": "18:12"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light bundaran patung kuda monas jakarta pusat arah kebon sirih dan yang akan mengarah ke balaikota dkj terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light bundaran patung kuda monas jakarta pusat",
+            "TO": "kebon",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "17:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light bundaran patung kuda monas jakarta pusat arah kebon sirih dan yang akan mengarah ke balaikota dkj terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light bundaran patung kuda monas jakarta pusat",
+            "TO": "ke",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "17:24"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light matraman jakarta timur arah jatinegara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light matraman jakarta timur",
+            "TO": "jatinegara",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "16:58"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di tol bandara soetta gt kapuk arah bandara terpantau ramai lancar ",
+        "entities": {
+            "FROM": "tol bandara soetta gt kapuk",
+            "TO": "bandara",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "07:23"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas dilampu merah arion jaktim terpantau ramai lancar ",
+        "entities": {
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "06:48"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas dilampu merah slipi jakbar arah grogol terpantau ramai lancar ",
+        "entities": {
+            "TO": "grogol",
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "06:38"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas dilampu merah cawang kompor jaktim terpantau ramai lancar ",
+        "entities": {
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "06:34"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas dilampu merah pgc cililitan jaktim terpantau ramai lancar ",
+        "entities": {
+            "STATUS": "ramai lancar",
+            "DATE": "10-06-2025",
+            "TIME": "06:33"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol sedyatmo km 31 cengkareng menuju arah bandara soetta/jakarta terpantau ramai lancer ",
+        "entities": {
+            "FROM": "ruas tol sedyatmo km 31 cengkareng menuju",
+            "TO": "bandara",
+            "STATUS": "ramai lancer",
+            "DATE": "09-06-2025",
+            "TIME": "21:37"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintas di ruas tol jorr w2s km 04 menuju arah serpong/jakarta terpantau lancar ",
+        "entities": {
+            "FROM": "ruas tol jorr w2s km 04 menuju",
+            "TO": "serpong/jakarta",
+            "STATUS": "lancar",
+            "DATE": "09-06-2025",
+            "TIME": "21:34"
+        }
+    },
+    {
+        "text": "situasi arus lalu lintasdi ruas tol jorr km 16 terpantau ramai lancar ",
+        "entities": {
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "21:32"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "19:41"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 05 kuningan arah pancoran maupun arah semanggi terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 05 kuningan",
+            "TO": "semanggi",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "19:41"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light simpang lima senen jakpus arah cempaka putih maupun arah salemba raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light simpang lima senen jakpus",
+            "TO": "cempaka",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "18:35"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light simpang lima senen jakpus arah cempaka putih maupun arah salemba raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light simpang lima senen jakpus",
+            "TO": "salemba",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "18:35"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pintu besi jl gunung sahari jakpus arah kemayoran maupun arah ancol terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pintu besi jl gunung sahari jakpus",
+            "TO": "kemayoran",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "17:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light pintu besi jl gunung sahari jakpus arah kemayoran maupun arah ancol terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light pintu besi jl gunung sahari jakpus",
+            "TO": "ancol",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "17:31"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light tugu tani jakpus arah kwitang maupun arah gambir terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani jakpus",
+            "TO": "kwitang",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "17:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light tugu tani jakpus arah kwitang maupun arah gambir terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light tugu tani jakpus",
+            "TO": "gambir",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "17:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light fatmawati jaksel arah cilandak maupun arah lebak bulus terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light fatmawati jaksel",
+            "TO": "cilandak",
+            "STATUS": "ramai cenderung",
+            "DATE": "09-06-2025",
+            "TIME": "16:58"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light fatmawati jaksel arah cilandak maupun arah lebak bulus terpantau ramai cenderung padat ",
+        "entities": {
+            "FROM": "traffic light fatmawati jaksel",
+            "TO": "lebak",
+            "STATUS": "ramai cenderung",
+            "DATE": "09-06-2025",
+            "TIME": "16:58"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cempaka putih jakpus arah pulogadung maupun arah jl letjen suprapto terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih jakpus",
+            "TO": "pulogadung",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "16:40"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light cempaka putih jakpus arah pulogadung maupun arah jl letjen suprapto terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light cempaka putih jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "16:40"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light salemba jakpus arah matraman maupun arah jl kramat raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light salemba jakpus",
+            "TO": "matraman",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "16:28"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light salemba jakpus arah matraman maupun arah jl kramat raya terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light salemba jakpus",
+            "TO": "jl",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "16:28"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kalibata jaksel arah pancoran maupun arah pasar minggu terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kalibata jaksel",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "16:19"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kalibata jaksel arah pancoran maupun arah pasar minggu terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kalibata jaksel",
+            "TO": "pasar",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "16:19"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "bekasi",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "14:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light kolong cakung jaktim arah bekasi maupun arah cilincing terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light kolong cakung jaktim",
+            "TO": "cilincing",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "14:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light simpang lima senen arah jl kramat bunder maupun arah cempaka putih terpantau cukup padat ",
+        "entities": {
+            "FROM": "traffic light simpang lima senen",
+            "TO": "jl",
+            "STATUS": "cukup padat",
+            "DATE": "09-06-2025",
+            "TIME": "13:57"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light simpang lima senen arah jl kramat bunder maupun arah cempaka putih terpantau cukup padat ",
+        "entities": {
+            "FROM": "traffic light simpang lima senen",
+            "TO": "cempaka",
+            "STATUS": "cukup padat",
+            "DATE": "09-06-2025",
+            "TIME": "13:57"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol jakarta-cikampek km 09 cikunir terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol jakarta-cikampek km 09 cikunir",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "11:35"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran maupun arah cikampek terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "pancoran",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "10:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di ruas tol dalam kota km 00 cawang arah pancoran maupun arah cikampek terpantau ramai lancar ",
+        "entities": {
+            "FROM": "ruas tol dalam kota km 00 cawang",
+            "TO": "cikampek",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "10:11"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light caringin jl suryopranoto jakpus arah harmoni maupun arah jembatan lima terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light caringin jl suryopranoto jakpus",
+            "TO": "harmoni",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "09:07"
+        }
+    },
+    {
+        "text": " situasi arus lalu lintas di traffic light caringin jl suryopranoto jakpus arah harmoni maupun arah jembatan lima terpantau ramai lancar ",
+        "entities": {
+            "FROM": "traffic light caringin jl suryopranoto jakpus",
+            "TO": "jembatan",
+            "STATUS": "ramai lancar",
+            "DATE": "09-06-2025",
+            "TIME": "09:07"
+        }
+    }
+]

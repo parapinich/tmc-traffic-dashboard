@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# Streamlit local config
+.streamlit/
+
+# Data files (jika tidak ingin upload data mentah yang besar)
+*.csv
+*.xlsx
+
+# Operating System files
+.DS_Store
+Thumbs.db
